@@ -1,0 +1,16 @@
+{
+  "name": "gpa-calculator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A GPA Calculator script for determining semester GPA and current overall GPA.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrea A. Venti Fuentes",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
